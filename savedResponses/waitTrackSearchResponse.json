@@ -1,0 +1,1327 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=Wait&type=track&offset=0&limit=20",
+    "items": [{
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          },
+          "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "type": "artist",
+          "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1qvLKCq4Xh355Fq0VswCpH"
+        },
+        "href": "https://api.spotify.com/v1/albums/1qvLKCq4Xh355Fq0VswCpH",
+        "id": "1qvLKCq4Xh355Fq0VswCpH",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1708df58f3517698fbd3984e8f88722fdfcf8e3",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5999f26ecb81948babf8a9e5b9a905ff10622945",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ef81c0753690ea5ff192ff964b66848866f363fa",
+          "width": 64
+        }],
+        "name": "Red Pill Blues (Deluxe)",
+        "type": "album",
+        "uri": "spotify:album:1qvLKCq4Xh355Fq0VswCpH"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 190642,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71710370"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lUnFLtn8w3W76FiYDRzmO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lUnFLtn8w3W76FiYDRzmO",
+      "id": "4lUnFLtn8w3W76FiYDRzmO",
+      "name": "Wait",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4lUnFLtn8w3W76FiYDRzmO"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          },
+          "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "type": "artist",
+          "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak"
+        },
+        "href": "https://api.spotify.com/v1/albums/5OI8zfqy2WwWN4OnfPVXak",
+        "id": "5OI8zfqy2WwWN4OnfPVXak",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/309307c524644d11a6160dda7f85c5b2470c4d63",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8dc7a1c5a75e8355e7f6d8a31ebf8e6d5180e5cd",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9db9185ad7433ad3bec4afeb2d3acc1bcb191b3c",
+          "width": 64
+        }],
+        "name": "Wait (Chromeo Remix)",
+        "type": "album",
+        "uri": "spotify:album:5OI8zfqy2WwWN4OnfPVXak"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      }, {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mV8aJphiSHYJf43DxL7Gt",
+        "id": "2mV8aJphiSHYJf43DxL7Gt",
+        "name": "Chromeo",
+        "type": "artist",
+        "uri": "spotify:artist:2mV8aJphiSHYJf43DxL7Gt"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 259663,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71800125"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0eayB5jay6m21D816D7jF4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0eayB5jay6m21D816D7jF4",
+      "id": "0eayB5jay6m21D816D7jF4",
+      "name": "Wait - Chromeo Remix",
+      "popularity": 65,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0eayB5jay6m21D816D7jF4"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+          },
+          "href": "https://api.spotify.com/v1/artists/19Fi1Rj7kk8kyiwxpXy3yM",
+          "id": "19Fi1Rj7kk8kyiwxpXy3yM",
+          "name": "August Alsina",
+          "type": "artist",
+          "uri": "spotify:artist:19Fi1Rj7kk8kyiwxpXy3yM"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5TwJQUtFrLu34vkfxZEuAr"
+        },
+        "href": "https://api.spotify.com/v1/albums/5TwJQUtFrLu34vkfxZEuAr",
+        "id": "5TwJQUtFrLu34vkfxZEuAr",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/d3c9fea733d0cdd2282dbee609b90a1e198b7ab1",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/89f5e9429c6acf3b5c88e8124ba466c2cfbefac2",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5445ed5e7902bea022b3bbe4274a716db00517bb",
+          "width": 64
+        }],
+        "name": "Wait",
+        "type": "album",
+        "uri": "spotify:album:5TwJQUtFrLu34vkfxZEuAr"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        },
+        "href": "https://api.spotify.com/v1/artists/19Fi1Rj7kk8kyiwxpXy3yM",
+        "id": "19Fi1Rj7kk8kyiwxpXy3yM",
+        "name": "August Alsina",
+        "type": "artist",
+        "uri": "spotify:artist:19Fi1Rj7kk8kyiwxpXy3yM"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 205413,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71616158"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3ak6Fscs4qMoVsIwaDLgZv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3ak6Fscs4qMoVsIwaDLgZv",
+      "id": "3ak6Fscs4qMoVsIwaDLgZv",
+      "name": "Wait",
+      "popularity": 67,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3ak6Fscs4qMoVsIwaDLgZv"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          },
+          "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "type": "artist",
+          "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5hDpkIt9yuU2MYDqzdxBDE",
+        "id": "5hDpkIt9yuU2MYDqzdxBDE",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/1f6bd573b552456d6b7d0051f487ffdd441d1966",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/10c1cecd66f68afcda41b8d1aed6fb90fab75dc8",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/597c4c0c0fbb92c674bec72ab16fcfbc96e23ad1",
+          "width": 64
+        }],
+        "name": "Wait (feat. A Boogie Wit da Hoodie)",
+        "type": "album",
+        "uri": "spotify:album:5hDpkIt9yuU2MYDqzdxBDE"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      }, {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        "href": "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie",
+        "type": "artist",
+        "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 190476,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71800126"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0SvxydoxEEkXt9aMAqTfpB",
+      "id": "0SvxydoxEEkXt9aMAqTfpB",
+      "name": "Wait (feat. A Boogie Wit da Hoodie)",
+      "popularity": 64,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0SvxydoxEEkXt9aMAqTfpB"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+          "id": "4ehtJnVumNf6xzSCDk8aLB",
+          "name": "Martin Jensen",
+          "type": "artist",
+          "uri": "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+        }],
+        "available_markets": ["CA", "DK", "FI", "IS", "NO", "SE", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1emC1ZVZGDjFlqEn0NcywX"
+        },
+        "href": "https://api.spotify.com/v1/albums/1emC1ZVZGDjFlqEn0NcywX",
+        "id": "1emC1ZVZGDjFlqEn0NcywX",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/6ec270c29995d69e902149e42d775f017a0cfa94",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/10c2b651abf307c045aba004d672f8f42646bcd8",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/23ec9aecd17697a4615dfe65c8ba3ea31201d609",
+          "width": 64
+        }],
+        "name": "Wait",
+        "type": "album",
+        "uri": "spotify:album:1emC1ZVZGDjFlqEn0NcywX"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+        "id": "4ehtJnVumNf6xzSCDk8aLB",
+        "name": "Martin Jensen",
+        "type": "artist",
+        "uri": "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+      }, {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/00TKPo9MxwZ0j4ooveIxWZ",
+        "id": "00TKPo9MxwZ0j4ooveIxWZ",
+        "name": "Loote",
+        "type": "artist",
+        "uri": "spotify:artist:00TKPo9MxwZ0j4ooveIxWZ"
+      }],
+      "available_markets": ["CA", "DK", "FI", "IS", "NO", "SE", "US"],
+      "disc_number": 1,
+      "duration_ms": 165083,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DK4YA1707801"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5XiZK7m9PLppgIzJBpw2x5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5XiZK7m9PLppgIzJBpw2x5",
+      "id": "5XiZK7m9PLppgIzJBpw2x5",
+      "name": "Wait",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/e5e151bf1755b0ac2d85064e0291a6f21339d39d?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5XiZK7m9PLppgIzJBpw2x5"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+          "id": "3gd8FJtBJtkRxdfbTu19U2",
+          "name": "Mumford & Sons",
+          "type": "artist",
+          "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+        }],
+        "available_markets": ["CA", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7rlmzEQPP4b6T6OhlnTdRn"
+        },
+        "href": "https://api.spotify.com/v1/albums/7rlmzEQPP4b6T6OhlnTdRn",
+        "id": "7rlmzEQPP4b6T6OhlnTdRn",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/4d7296af8473f3d3a9853848ae59737bb5cce9e8",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab5a7e64ee1f5fd8c1fbe68d99c2244bf07b33e2",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dc421d7f590de159768b973beb3f768c44b30a89",
+          "width": 64
+        }],
+        "name": "Babel",
+        "type": "album",
+        "uri": "spotify:album:7rlmzEQPP4b6T6OhlnTdRn"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "name": "Mumford & Sons",
+        "type": "artist",
+        "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+      }],
+      "available_markets": ["CA", "US"],
+      "disc_number": 1,
+      "duration_ms": 276720,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBUM71204769"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2JHBMVs8E7bJJBLkXpKgHn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2JHBMVs8E7bJJBLkXpKgHn",
+      "id": "2JHBMVs8E7bJJBLkXpKgHn",
+      "name": "I Will Wait",
+      "popularity": 71,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2JHBMVs8E7bJJBLkXpKgHn"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+          "id": "3rWZHrfrsPBxVy692yAIxF",
+          "name": "Willow",
+          "type": "artist",
+          "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+        },
+        "href": "https://api.spotify.com/v1/albums/0wfne2JijoxJm0qzJd3V5h",
+        "id": "0wfne2JijoxJm0qzJd3V5h",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/1f8615baaf3deed2ec16b54f61d6b420ec35520a",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/66f8a11cecfea208944148de2ed5c79d69bfc531",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8b32361f9af8ad6415b114c51a842e16b1cf7b87",
+          "width": 64
+        }],
+        "name": "ARDIPITHECUS",
+        "type": "album",
+        "uri": "spotify:album:0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+        "id": "3rWZHrfrsPBxVy692yAIxF",
+        "name": "Willow",
+        "type": "artist",
+        "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 196520,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMJMT1500801"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0y60itmpH0aPKsFiGxmtnh",
+      "id": "0y60itmpH0aPKsFiGxmtnh",
+      "name": "Wait a Minute!",
+      "popularity": 70,
+      "preview_url": null,
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:0y60itmpH0aPKsFiGxmtnh"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+        },
+        "href": "https://api.spotify.com/v1/albums/1kCHru7uhxBUdzkm4gzRQc",
+        "id": "1kCHru7uhxBUdzkm4gzRQc",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/680f63e0199dc160f414b5be084b3d91493c67a6",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cab99e12568f975eacaf11dac9493d7c07e51e4e",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6578cd1487e860466928a896e93c8e1641744e04",
+          "width": 64
+        }],
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "type": "album",
+        "uri": "spotify:album:1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        "href": "https://api.spotify.com/v1/artists/3cR4rhS2hBWqI7rJEBacvN",
+        "id": "3cR4rhS2hBWqI7rJEBacvN",
+        "name": "Leslie Odom Jr.",
+        "type": "artist",
+        "uri": "spotify:artist:3cR4rhS2hBWqI7rJEBacvN"
+      }, {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        "href": "https://api.spotify.com/v1/artists/3UUJfRbrA2nTbcg4i0MOwu",
+        "id": "3UUJfRbrA2nTbcg4i0MOwu",
+        "name": "Original Broadway Cast of Hamilton",
+        "type": "artist",
+        "uri": "spotify:artist:3UUJfRbrA2nTbcg4i0MOwu"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 193749,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21502608"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7EqpEBPOohgk7NnKvBGFWo",
+      "id": "7EqpEBPOohgk7NnKvBGFWo",
+      "name": "Wait For It",
+      "popularity": 72,
+      "preview_url": "https://p.scdn.co/mp3-preview/f6c668364f0fead65b8420cbd473c2d2a554938e?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:7EqpEBPOohgk7NnKvBGFWo"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          },
+          "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+          "id": "63MQldklfxkjYDoUE4Tppz",
+          "name": "M83",
+          "type": "artist",
+          "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+        }],
+        "available_markets": ["CA", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        },
+        "href": "https://api.spotify.com/v1/albums/6R0ynY7RF20ofs9GJR5TXR",
+        "id": "6R0ynY7RF20ofs9GJR5TXR",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/ad09dc108b0e0cd6f2294904e65d5b8625a60e32",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d4e0577fb5a97c75d84afcaf259c845e4b35d795",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d97c00f57ea839c27509155fbc8948b29f217349",
+          "width": 64
+        }],
+        "name": "Hurry Up, We're Dreaming",
+        "type": "album",
+        "uri": "spotify:album:6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+        "id": "63MQldklfxkjYDoUE4Tppz",
+        "name": "M83",
+        "type": "artist",
+        "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+      }],
+      "available_markets": ["CA", "US"],
+      "disc_number": 1,
+      "duration_ms": 343253,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GB55H1100005"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3rTnGUeDrnZV22DvRuUuXr",
+      "id": "3rTnGUeDrnZV22DvRuUuXr",
+      "name": "Wait",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/8c328a0b0ef00f620bbb44e0a063f28e80a14e67?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3rTnGUeDrnZV22DvRuUuXr"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          },
+          "href": "https://api.spotify.com/v1/artists/5Lhxlge1CR1DrgDAje8Qaw",
+          "id": "5Lhxlge1CR1DrgDAje8Qaw",
+          "name": "NoMBe",
+          "type": "artist",
+          "uri": "spotify:artist:5Lhxlge1CR1DrgDAje8Qaw"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ILMLbJFyI1JgB8QkVzrEB"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ILMLbJFyI1JgB8QkVzrEB",
+        "id": "7ILMLbJFyI1JgB8QkVzrEB",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/250561c063b72d1ac89f45a247cf231d33ebcb91",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c473f6df6bd10f0b1f37d1197c4034eace67b88b",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2708323d371c42940791e68859cad30d3d95ce62",
+          "width": 64
+        }],
+        "name": "Wait",
+        "type": "album",
+        "uri": "spotify:album:7ILMLbJFyI1JgB8QkVzrEB"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Lhxlge1CR1DrgDAje8Qaw",
+        "id": "5Lhxlge1CR1DrgDAje8Qaw",
+        "name": "NoMBe",
+        "type": "artist",
+        "uri": "spotify:artist:5Lhxlge1CR1DrgDAje8Qaw"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 214436,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACW1758501"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0lUO60zSnd20AlKB5Wg0qS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0lUO60zSnd20AlKB5Wg0qS",
+      "id": "0lUO60zSnd20AlKB5Wg0qS",
+      "name": "Wait",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/3ddda9c862047ff5e8586b65183b65f86d867d38?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0lUO60zSnd20AlKB5Wg0qS"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+          },
+          "href": "https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz",
+          "id": "6fOMl44jA4Sp5b9PpYCkzz",
+          "name": "NF",
+          "type": "artist",
+          "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
+        },
+        "href": "https://api.spotify.com/v1/albums/3Qq4kVfHPrs8xPKIYKmctl",
+        "id": "3Qq4kVfHPrs8xPKIYKmctl",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/afcde920cdf4819b0fbd0f95e62b4a03e7ac301f",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/dc59e5a14e9c7ec6f66a53fca43f4849f9f75b93",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d59c6c0e486de3a8d746da3145d2fba1f21d44f5",
+          "width": 64
+        }],
+        "name": "Mansion",
+        "type": "album",
+        "uri": "spotify:album:3Qq4kVfHPrs8xPKIYKmctl"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz",
+        "id": "6fOMl44jA4Sp5b9PpYCkzz",
+        "name": "NF",
+        "type": "artist",
+        "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 242000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71501605"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7EQBIAZHD2QAh9sgtjZJgI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7EQBIAZHD2QAh9sgtjZJgI",
+      "id": "7EQBIAZHD2QAh9sgtjZJgI",
+      "name": "Wait",
+      "popularity": 61,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7EQBIAZHD2QAh9sgtjZJgI"
+    }, {
+      "album": {
+        "album_type": "single",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ioOEWNNGK40H8xrGj6XPW",
+          "id": "6ioOEWNNGK40H8xrGj6XPW",
+          "name": "XYLØ",
+          "type": "artist",
+          "uri": "spotify:artist:6ioOEWNNGK40H8xrGj6XPW"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5dhKIpgpaFEprKWRDRuS60"
+        },
+        "href": "https://api.spotify.com/v1/albums/5dhKIpgpaFEprKWRDRuS60",
+        "id": "5dhKIpgpaFEprKWRDRuS60",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/10fa34678312cd5aa843aace9ef9d368cc8a8f70",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2458dfa49e731346915c2e3fbd4c8a54b79f9e71",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f4ecaada762784de679ce3307c2862822a5c5876",
+          "width": 64
+        }],
+        "name": "I Still Wait For You",
+        "type": "album",
+        "uri": "spotify:album:5dhKIpgpaFEprKWRDRuS60"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ioOEWNNGK40H8xrGj6XPW",
+        "id": "6ioOEWNNGK40H8xrGj6XPW",
+        "name": "XYLØ",
+        "type": "artist",
+        "uri": "spotify:artist:6ioOEWNNGK40H8xrGj6XPW"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 244940,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USQX91700400"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kqCbVG93MnBnkRGiKWTPs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7kqCbVG93MnBnkRGiKWTPs",
+      "id": "7kqCbVG93MnBnkRGiKWTPs",
+      "name": "I Still Wait For You",
+      "popularity": 65,
+      "preview_url": "https://p.scdn.co/mp3-preview/863cac2cf81efb3f8e4cfe3cc472e4dee3f78033?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7kqCbVG93MnBnkRGiKWTPs"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          },
+          "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8",
+          "id": "05fG473iIaoy82BF1aGhL8",
+          "name": "Slipknot",
+          "type": "artist",
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        },
+        "href": "https://api.spotify.com/v1/albums/2dL9Q5AtIv4Rw1L6lKcIUc",
+        "id": "2dL9Q5AtIv4Rw1L6lKcIUc",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/83181f3fa385ac083b74ff40c848d47c79eb51cf",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2edfd177fc78306ad56ca727a3378597bb78e44d",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/05a12d4750ea226d0edad7f0093c8e56bf84969d",
+          "width": 64
+        }],
+        "name": "Slipknot 10th Anniversary Edition",
+        "type": "album",
+        "uri": "spotify:album:2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        },
+        "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8",
+        "id": "05fG473iIaoy82BF1aGhL8",
+        "name": "Slipknot",
+        "type": "artist",
+        "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 147840,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "NLA329980194"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2gscB6kDOmrv1P6qs2KXE3",
+      "id": "2gscB6kDOmrv1P6qs2KXE3",
+      "name": "Wait And Bleed",
+      "popularity": 72,
+      "preview_url": "https://p.scdn.co/mp3-preview/7c1a811854a00fa916aee06ab0b56ef9901723a4?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2gscB6kDOmrv1P6qs2KXE3"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          },
+          "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8",
+          "id": "05fG473iIaoy82BF1aGhL8",
+          "name": "Slipknot",
+          "type": "artist",
+          "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8"
+        }],
+        "available_markets": ["CA", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+        },
+        "href": "https://api.spotify.com/v1/albums/5lOFvOWAdy9G6p44noRILU",
+        "id": "5lOFvOWAdy9G6p44noRILU",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/5374aba5386ae541ab779c2f22097c8772567779",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/23c67d795503c8408fb9e9a475caad46125bc577",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/be7b1f79df47136efa523b517942b927b98c2471",
+          "width": 64
+        }],
+        "name": "Slipknot",
+        "type": "album",
+        "uri": "spotify:album:5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        },
+        "href": "https://api.spotify.com/v1/artists/05fG473iIaoy82BF1aGhL8",
+        "id": "05fG473iIaoy82BF1aGhL8",
+        "name": "Slipknot",
+        "type": "artist",
+        "uri": "spotify:artist:05fG473iIaoy82BF1aGhL8"
+      }],
+      "available_markets": ["CA", "US"],
+      "disc_number": 1,
+      "duration_ms": 147840,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "NLA329980194"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/15DLl1r2zi07Ssq5RT1yT0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/15DLl1r2zi07Ssq5RT1yT0",
+      "id": "15DLl1r2zi07Ssq5RT1yT0",
+      "name": "Wait And Bleed",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/7c1a811854a00fa916aee06ab0b56ef9901723a4?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:15DLl1r2zi07Ssq5RT1yT0"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3GjVVVcFmUgEJEAAsbGkf4",
+          "id": "3GjVVVcFmUgEJEAAsbGkf4",
+          "name": "Trampled By Turtles",
+          "type": "artist",
+          "uri": "spotify:artist:3GjVVVcFmUgEJEAAsbGkf4"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
+        },
+        "href": "https://api.spotify.com/v1/albums/5sT4iQKiMLVJvOQKPVxn62",
+        "id": "5sT4iQKiMLVJvOQKPVxn62",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/f43e6a157b5b76929ea41ef51785acd0d78c1f1e",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/87c36a984f23791227db9c85d3c643afd6e830e2",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2deeedaa749e015bb78a4e5bc920a7010215853b",
+          "width": 64
+        }],
+        "name": "Palomino",
+        "type": "album",
+        "uri": "spotify:album:5sT4iQKiMLVJvOQKPVxn62"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GjVVVcFmUgEJEAAsbGkf4",
+        "id": "3GjVVVcFmUgEJEAAsbGkf4",
+        "name": "Trampled By Turtles",
+        "type": "artist",
+        "uri": "spotify:artist:3GjVVVcFmUgEJEAAsbGkf4"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 206400,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USX6D1000001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1QesQ27kCWYTYuXJi8SApS",
+      "id": "1QesQ27kCWYTYuXJi8SApS",
+      "name": "Wait so Long",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/5d79b5113380c17fd8a0f9af635324a521d97e6c?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1QesQ27kCWYTYuXJi8SApS"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kYGAK2zu9EAomwj3hXkXy",
+          "id": "4kYGAK2zu9EAomwj3hXkXy",
+          "name": "JP Cooper",
+          "type": "artist",
+          "uri": "spotify:artist:4kYGAK2zu9EAomwj3hXkXy"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        },
+        "href": "https://api.spotify.com/v1/albums/3cS0qzNDjE5SjdAL1W98fo",
+        "id": "3cS0qzNDjE5SjdAL1W98fo",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/b5f78ddc769083e0bd828960de92353ce634f20d",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ec362721a5ac8e800962a17063ba3cf2887e46df",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/801d2a0e253f002626524bfbb71e724459d1a7ac",
+          "width": 64
+        }],
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "type": "album",
+        "uri": "spotify:album:3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        "href": "https://api.spotify.com/v1/artists/4kYGAK2zu9EAomwj3hXkXy",
+        "id": "4kYGAK2zu9EAomwj3hXkXy",
+        "name": "JP Cooper",
+        "type": "artist",
+        "uri": "spotify:artist:4kYGAK2zu9EAomwj3hXkXy"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 231533,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBUM71702087"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3hqJFkxeobh6Y9mOL37NLx",
+      "id": "3hqJFkxeobh6Y9mOL37NLx",
+      "name": "Wait",
+      "popularity": 58,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3hqJFkxeobh6Y9mOL37NLx"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          },
+          "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+          "id": "68kEuyFKyqrdQQLLsmiatm",
+          "name": "Vince Staples",
+          "type": "artist",
+          "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+        }],
+        "available_markets": ["CA", "MX", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7mxpMxmMM8RN39YRlo08v7"
+        },
+        "href": "https://api.spotify.com/v1/albums/7mxpMxmMM8RN39YRlo08v7",
+        "id": "7mxpMxmMM8RN39YRlo08v7",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/a20341bb51c43dd58a426e4078f0898cd4f46be7",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/875db1f71539ee9ea0fdb92a5692959914ddd106",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/adc0ae720759a3677cf9f9aeed23e4a0f4e26cff",
+          "width": 64
+        }],
+        "name": "Hell Can Wait",
+        "type": "album",
+        "uri": "spotify:album:7mxpMxmMM8RN39YRlo08v7"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id": "68kEuyFKyqrdQQLLsmiatm",
+        "name": "Vince Staples",
+        "type": "artist",
+        "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      }],
+      "available_markets": ["CA", "MX", "US"],
+      "disc_number": 1,
+      "duration_ms": 218040,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71411220"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6w6SW8zyEcyxwSR7Wya45a"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6w6SW8zyEcyxwSR7Wya45a",
+      "id": "6w6SW8zyEcyxwSR7Wya45a",
+      "name": "Blue Suede",
+      "popularity": 61,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6w6SW8zyEcyxwSR7Wya45a"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4am1I89OWXUzFh4ctRLkdd",
+          "id": "4am1I89OWXUzFh4ctRLkdd",
+          "name": "Elliott Yamin",
+          "type": "artist",
+          "uri": "spotify:artist:4am1I89OWXUzFh4ctRLkdd"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu"
+        },
+        "href": "https://api.spotify.com/v1/albums/4G390E1M4qCVxgAcbYaFwu",
+        "id": "4G390E1M4qCVxgAcbYaFwu",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/2f23e5afa2d7ec6ce93f939d279891cae60582fe",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e157600fa35126b418d09be8c77b77f8bd8b7ea7",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a16c229961f6761a7b222ffd2b13670671ac9e21",
+          "width": 64
+        }],
+        "name": "Elliott Yamin",
+        "type": "album",
+        "uri": "spotify:album:4G390E1M4qCVxgAcbYaFwu"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
+        },
+        "href": "https://api.spotify.com/v1/artists/4am1I89OWXUzFh4ctRLkdd",
+        "id": "4am1I89OWXUzFh4ctRLkdd",
+        "name": "Elliott Yamin",
+        "type": "artist",
+        "uri": "spotify:artist:4am1I89OWXUzFh4ctRLkdd"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 261320,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USYYK0700001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0U969xYNlAyfzi8P1TaO7u",
+      "id": "0U969xYNlAyfzi8P1TaO7u",
+      "name": "Wait for You",
+      "popularity": 67,
+      "preview_url": "https://p.scdn.co/mp3-preview/688f14a24c51ab9ee7fe2803d7de6470f2806b3d?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0U969xYNlAyfzi8P1TaO7u"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+          },
+          "href": "https://api.spotify.com/v1/artists/44PA0rCQXikgOWbfY7Fq7m",
+          "id": "44PA0rCQXikgOWbfY7Fq7m",
+          "name": "Ying Yang Twins",
+          "type": "artist",
+          "uri": "spotify:artist:44PA0rCQXikgOWbfY7Fq7m"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f"
+        },
+        "href": "https://api.spotify.com/v1/albums/0tkYbxsTPQ5kTVdrvj4S3f",
+        "id": "0tkYbxsTPQ5kTVdrvj4S3f",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/1dded12cb259eaef52de702cd588536f00539e69",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/543abc8ad1caf9de80be895202adf574f71f8c16",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0b0320f1a8c287f4acd802c763aefb926119e4be",
+          "width": 64
+        }],
+        "name": "United States Of Atlanta",
+        "type": "album",
+        "uri": "spotify:album:0tkYbxsTPQ5kTVdrvj4S3f"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        },
+        "href": "https://api.spotify.com/v1/artists/44PA0rCQXikgOWbfY7Fq7m",
+        "id": "44PA0rCQXikgOWbfY7Fq7m",
+        "name": "Ying Yang Twins",
+        "type": "artist",
+        "uri": "spotify:artist:44PA0rCQXikgOWbfY7Fq7m"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 179160,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USTV10500375"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Y78yINSOCW6xbOfGWNBg4",
+      "id": "5Y78yINSOCW6xbOfGWNBg4",
+      "name": "Wait (The Whisper Song)",
+      "popularity": 62,
+      "preview_url": "https://p.scdn.co/mp3-preview/5029de6619da44073bb551a3560b55877dfada5d?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:5Y78yINSOCW6xbOfGWNBg4"
+    }, {
+      "album": {
+        "album_type": "album",
+        "artists": [{
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+          "id": "2qk9voo8llSGYcZ6xrBzKx",
+          "name": "Kings of Leon",
+          "type": "artist",
+          "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+        }],
+        "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+        },
+        "href": "https://api.spotify.com/v1/albums/0cRJKK0y1sfZEqWub4dK9v",
+        "id": "0cRJKK0y1sfZEqWub4dK9v",
+        "images": [{
+          "height": 640,
+          "url": "https://i.scdn.co/image/c18148def1fc8e5b40ecf733dc41eefc47c8066e",
+          "width": 640
+        }, {
+          "height": 300,
+          "url": "https://i.scdn.co/image/60ce2e0301162d843dda15b40190be751bbfe9c4",
+          "width": 300
+        }, {
+          "height": 64,
+          "url": "https://i.scdn.co/image/27bcc0539100df8fc05aeba94ce08764c3432bde",
+          "width": 64
+        }],
+        "name": "Mechanical Bull (Deluxe Version)",
+        "type": "album",
+        "uri": "spotify:album:0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [{
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+        "id": "2qk9voo8llSGYcZ6xrBzKx",
+        "name": "Kings of Leon",
+        "type": "artist",
+        "uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+      }],
+      "available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN"],
+      "disc_number": 1,
+      "duration_ms": 210133,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USRC11300789"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nO1DYEg1X5GHi8SSuNJQj",
+      "id": "2nO1DYEg1X5GHi8SSuNJQj",
+      "name": "Wait for Me",
+      "popularity": 67,
+      "preview_url": "https://p.scdn.co/mp3-preview/ccec4fa2c615d212b2ce210fdc22ea7be685314d?cid=039c8da16d764b958b9da7a0bb1381b3",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2nO1DYEg1X5GHi8SSuNJQj"
+    }],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=Wait&type=track&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 46453
+  }
+}

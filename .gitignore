@@ -1,3 +1,10 @@
+# my additions
+test.js
+.vscode
+package-lock.json
+lastResponse.json
+localSavedResponses
+
 # Logs
 logs
 *.log

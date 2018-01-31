@@ -1,0 +1,19 @@
+{
+  "name": "MMCFeatures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ashish patel",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
