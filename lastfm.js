@@ -25,11 +25,11 @@ let log = function (data) {
 
 
 function getTaggedTracks (tag, limit = 50) {
-  let pagesCount = limit % 1000 == 0 ? limit / 1000 : limit / 1000 + 1;
+  let pagesCount = limit % 500 == 0 ? limit / 500 : limit / 500 + 1;
   console.log('Total pages: ', pagesCount);
   let options = {
     'tag': tag,
-    'limit': 1000,
+    'limit': 500,
     'page': 1,
   };
 
@@ -76,5 +76,5 @@ function getTracks (tag, limit = 50) {
   });
 }
 
- getTaggedTracks('Sad', 15000);
+getTaggedTracks('Party', 15000);
 // getTracks('sad', 1000);
