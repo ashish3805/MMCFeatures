@@ -1,5 +1,4 @@
 let SpotifyWebApi = require('spotify-web-api-node');
-let fs = require('fs');
 let mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/mmc');
 let SpTrack = require('./models/SpTrack');
@@ -23,21 +22,9 @@ let spotifyApi = new SpotifyWebApi({
   redirectUri: 'http://localhost:8080/callback',
 });
 
-spotifyApi.setAccessToken('BQBQnZuTi9wcJlLNZ7ZlMlMKI8k6terIoHew_n3t92IX29x71MdglRWpfeabTrhBjYttkJdew6g2fIjCwVM');
+spotifyApi
+  .setAccessToken('BQBQnZuTi9wcJlLNZ7ZlMlMKI8k6terIoHew_n3t92IX29x71MdglRWpfeabTrhBjYttkJdew6g2fIjCwVM');
 
-let log = function (data) {
-  console.log(JSON.stringify(data));
-  fs.writeFileSync('./lastResponse.json', JSON.stringify(data));
-  console.log('\nSaved the output at:' + __dirname + '/lastResponse.json');
-};
-
-function getToken () {
-  return JSON.parse(fs.readFileSync('./config.json')).token;
-}
-
-function updateAPIkey () {
-
-}
 
 function wait (time, callback, records, i) {
   // 'time' is in seconds
@@ -135,12 +122,4 @@ function doTasks () {
   }, (err) => {
     console.log(err);
   });
-}
-
-function testProcessNext () {
-  processNext('Eminem', 'Mockingbird', 0).then(console.log, console.log);
-}
-
-function test () {
-  testProcessNext();
 }

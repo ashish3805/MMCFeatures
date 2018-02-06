@@ -6,6 +6,12 @@ let spTrackSchema = new Schema({
   artist: String,
   mood: Number,
   id: String,
+  done: {
+    type: Boolean,
+    default: false,
+  },
+  features: {},
+  analysis: {},
 });
 
 let SpTrack = mongoose.model('SpTrack', spTrackSchema);
