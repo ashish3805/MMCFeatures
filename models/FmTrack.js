@@ -6,6 +6,10 @@ let fmTrackSchema = new Schema({
   artist: String,
   mood: Number,
   mbid: String,
+  done: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 let FmTrack = mongoose.model('FmTrack', fmTrackSchema);

@@ -23,7 +23,7 @@ let spotifyApi = new SpotifyWebApi({
 });
 
 spotifyApi
-  .setAccessToken('BQBQnZuTi9wcJlLNZ7ZlMlMKI8k6terIoHew_n3t92IX29x71MdglRWpfeabTrhBjYttkJdew6g2fIjCwVM');
+  .setAccessToken('BQBSUrWjXG34le1HqbaMJjT92YG1TGlD9C_7jL77RbdU2NrAd_zyZTShlgDoYX0gfrZvcQh15sXtvn5bIaY');
 
 
 function wait (time, callback, records, i) {

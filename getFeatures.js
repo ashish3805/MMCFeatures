@@ -61,13 +61,12 @@ function getAnalysis (spId) {
   return new Promise((resolve, reject) => {
     spotifyApi.getAudioAnalysisForTrack(spId)
       .then((data) => {
-        // save data;
         console.log('Analysis fetched.');
         resolve(data.body);
       }, function (err) {
         handleError(err).then(() => {
           console.log('Trying again to get the analysis.');
-          getAnalysis(spId);
+          getAnalysis(spId).then(resolve, reject);
         }, reject);
       });
   });
@@ -77,13 +76,12 @@ function getFeatures (spId) {
   return new Promise((resolve, reject) => {
     spotifyApi.getAudioFeaturesForTrack(spId)
       .then((data) => {
-        // save data;
         console.log('Features fetched.');
         resolve(data.body);
       }, function (err) {
         handleError(err).then(() => {
           console.log('Trying again to get the features.');
-          getFeatures(spId);
+          getFeatures(spId).then(resolve, reject);
         }, reject);
         reject();
       });
@@ -211,7 +209,7 @@ function doTasks () {
 
 // Configure the following:
 let recordFilter = {
-  mood: 0,
+  mood: 1,
 };
 
 let noOfRecordsToProcess = 500;

@@ -1,4 +1,3 @@
-let path = './localSavedResponses/15000Response/';
 let fs = require('fs');
 
 let mongoose = require('mongoose');
@@ -27,6 +26,7 @@ function processFiles (path, mood) {
         'mbid': data.tracks.track[i].mbid,
         'artist': data.tracks.track[i].artist.name,
         'mood': mood,
+        'done': false,
       };
       let key = newSong.title + newSong.artist;
       if (allData[key] == undefined) {
@@ -54,8 +54,10 @@ function saveRecords (records) {
 }
 
 function doTasks () {
-  let mood = 0;
   let records = processFiles(path, mood);
   saveRecords(records);
 }
 
+// configure these:
+let path = './localSavedResponses/Party/';
+let mood = 1;

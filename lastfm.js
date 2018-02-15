@@ -57,24 +57,8 @@ function getTaggedTracks (tag, limit = 50) {
   const intervalObj = setInterval(task, 1000, pagesCount);
 }
 
-function getTracks (tag, limit = 50) {
-  let options = {
-    'tag': tag,
-    'limit': 500,
-    'page': 60,
-  };
+getTaggedTracks(tagToFetch, noOfSongsToFetch);
 
-  let r = lastfm.request('tag.getTopTracks', options);
-  r.on('success', (data) => {
-    console.log('success:');
-    log(data);
-  });
-
-  r.on('error', (err) => {
-    console.log('error:');
-    log(err);
-  });
-}
-
-getTaggedTracks('Party', 15000);
-// getTracks('sad', 1000);
+// configure these:
+let tagToFetch = 'Party';
+let noOfSongsToFetch = 15000;
