@@ -1,1 +1,5 @@
-{"clientId":"039c8da16d764b958b9da7a0bb1381b3","clientSecret":"41769a9a05a7435ca81dd2831d933b5d","token":"BQBSUrWjXG34le1HqbaMJjT92YG1TGlD9C_7jL77RbdU2NrAd_zyZTShlgDoYX0gfrZvcQh15sXtvn5bIaY"}
+{
+  "clientId": "039c8da16d764b958b9da7a0bb1381b3",
+  "clientSecret": "41769a9a05a7435ca81dd2831d933b5d",
+  "dataPath":"./data"
+}
