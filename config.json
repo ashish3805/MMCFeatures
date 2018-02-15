@@ -1,5 +1,7 @@
 {
-  "clientId": "039c8da16d764b958b9da7a0bb1381b3",
-  "clientSecret": "41769a9a05a7435ca81dd2831d933b5d",
-  "dataPath":"./data"
+  "spotifyClientId": "039c8da16d764b958b9da7a0bb1381b3",
+  "spotifyClientSecret": "41769a9a05a7435ca81dd2831d933b5d",
+  "dataPath": "./data",
+  "lastfmAPIKey": "3e062051971fc1353aa069226ee9928b",
+  "lastfmSecret": "f2624348d624ae272c6993d8dfa8a1fd"
 }

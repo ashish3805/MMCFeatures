@@ -4,7 +4,7 @@ let Schema = mongoose.Schema;
 let fmTrackSchema = new Schema({
   title: String,
   artist: String,
-  mood: Number,
+  tag: String,
   mbid: String,
   done: {
     type: Boolean,

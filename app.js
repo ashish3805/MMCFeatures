@@ -1,7 +1,8 @@
 /**
  * 1) Generate CSV.
  * 2) Show Statistics about data.
- * 2) Add More Data.
+ * 2) Add More Data to SpDatabase.
+ * 3) Get & Save tagged tracks names from LastFm.
  */
 
 let fs = require('fs');
@@ -23,7 +24,11 @@ class App {
 
   }
 
-  addMoreData () {
+  addMoreDataToSpDatabase () {
+
+  }
+
+  getTaggedSongsFromLastFm () {
 
   }
 }
