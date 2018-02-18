@@ -15,5 +15,6 @@ module.exports = {
       "named": "always",
       "asyncArrow": "always"
     }],
+    "indent": ["error", 2]
   }
 };
