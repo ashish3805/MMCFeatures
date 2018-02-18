@@ -35,7 +35,7 @@ class LastFmWorker {
       const intervalObj = setInterval(() => {
         console.log('making call:', counter);
         options.page = counter;
-        let r = lastfm.request('tag.getTopTracks', options);
+        let r = this.lastfm.request('tag.getTopTracks', options);
         r.on('success', (data) => {
           this._saveResponse(data, tagToFetch).then(()=>{
             cbCounter++;
@@ -54,7 +54,7 @@ class LastFmWorker {
       }, 1000);
     });
   }
-  _saveResponse (data, tag) {
+  _saveResponse (data, tag, saveToDb = true) {
     return new Promise((resolve, reject)=>{
       let counter = 0;
       for (let i = 0; i < data.tracks.track.length; i++) {
@@ -67,14 +67,21 @@ class LastFmWorker {
         };
         let key = newSong.title + newSong.artist;
         if (this._allData[key] == undefined) {
-          this._allData[key] = true;
-          FmTrack.save(newSong).then((savedTrack) => {
-            this._allData[key] = savedTrack;
+          this._allData[key] = newSong;
+          if (saveToDb == true) {
+            FmTrack.save(newSong).then((savedTrack) => {
+              this._allData[key] = savedTrack;
+              counter++;
+              if (counter >= data.tracks.track.length) {
+                resolve();
+              }
+            }, reject);
+          } else {
             counter++;
             if (counter >= data.tracks.track.length) {
               resolve();
             }
-          }, reject);
+          }
         }
       }
     });
