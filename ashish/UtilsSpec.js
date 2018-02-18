@@ -1,6 +1,6 @@
 let expect = require('chai').expect;
 let sinon = require('sinon');
-let Utils = require('Utils');
+let Utils = require('./Utils');
 describe('Util', function () {
   describe('wait', function () {
     beforeEach(function () {

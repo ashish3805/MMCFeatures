@@ -1,0 +1,33 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "window.zoomLevel": 0,
+  "editor.rulers": [
+    80,
+    100,
+    120
+  ],
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": false,
+  "files.insertFinalNewline": true,
+  "git.enableSmartCommit": true,
+  "python.linting.pylintArgs": [
+    "--disable=W0311, C0111"
+  ],
+  "extensions.ignoreRecommendations": false,
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "clang.cxxflags": [
+    "-std=c++14"
+  ],
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "jscs.disableIfNoConfig": true,
+  "eslint.alwaysShowStatus": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDelete": false,
+  "mocha.files.glob": "**/*Spec.js"
+}

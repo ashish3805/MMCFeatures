@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha \"**/*Spec.js\"",
     "start": "node app.js"
   },
   "author": "ashish patel",
