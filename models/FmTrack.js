@@ -10,6 +10,9 @@ let fmTrackSchema = new Schema({
     type: Boolean,
     default: false,
   },
+  features: {},
+  analysis: {},
+  id: String,
 });
 
 let FmTrack = mongoose.model('FmTrack', fmTrackSchema);
