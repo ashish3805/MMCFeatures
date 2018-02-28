@@ -8,4 +8,5 @@ module.exports = {
   'dbName': 'mmc',
   'saveFeaturesToDB': true,
   'saveStatusInDB': true,
+  'songFilter': {done: false, mood: 1},
 };
